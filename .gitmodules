@@ -1,0 +1,27 @@
+[submodule "src/ros_commons"]
+	path = src/ros_commons
+	url = https://github.com/ros2amr/ros_commons.git
+[submodule "src/roselito_description"]
+	path = src/roselito_description
+	url = https://github.com/ros2amr/roselito_description.git
+[submodule "src/roselito_gazebo"]
+	path = src/roselito_gazebo
+	url = https://github.com/ros2amr/roselito_gazebo.git
+[submodule "src/roselito_gui"]
+	path = src/roselito_gui
+	url = https://github.com/ros2amr/roselito_gui.git
+[submodule "src/roselito_navigation"]
+	path = src/roselito_navigation
+	url = https://github.com/ros2amr/roselito_navigation.git
+[submodule "roselito_agent"]
+	path = src/roselito_agent
+	url = https://github.com/RemeLards/roselito_agent.git
+[submodule "roselito_interfaces"]
+	path = src/roselito_interfaces
+	url = https://github.com/RemeLards/roselito_interfaces.git
+[submodule "src/roselito_interfaces"]
+	path = src/roselito_interfaces
+	url = https://github.com/RemeLards/roselito_interfaces.git
+[submodule "src/roselito_agent"]
+	path = src/roselito_agent
+	url = https://github.com/RemeLards/roselito_agent.git
