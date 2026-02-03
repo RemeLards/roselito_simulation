@@ -50,6 +50,10 @@ To start the simulated environment, enter:
 
     ros2 launch roselito_gazebo start.launch
 
+To start the simulated environment with a map:
+
+    ros2 launch roselito_gazebo start.launch map:=absolute/path/to/map
+
 The command above will start Gazebo, load a world and place a robot inside it. To control the robot with the help of RQT, open a new GNU screen window and enter:
 
     rqt
